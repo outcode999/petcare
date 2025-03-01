@@ -1,0 +1,1 @@
+This system allows pet owners (referred to as "athiticoant") to add appointments for their pets. Veterinarians (doctors) can view, access, cancel, and update the health care details of these appointments.
